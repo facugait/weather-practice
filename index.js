@@ -65,4 +65,4 @@ function fetchWithTimeout(url, options, timeout) {
   ]);
 }
 
-setInterval(getWeather, 6000);
+setInterval(getWeather, 3000);
